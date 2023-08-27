@@ -30,7 +30,6 @@
       <td>2008</td>
       <td>90</td>
     </tr>
-    2
     <tr>
       <td>2</td>
       <td>12</td>
@@ -81,7 +80,6 @@
               <tr>
                 <td>GENDER</td>
                 <td><input type="radio" name="gen" value="m" />MALE
-                  4
                   <input type="radio" name="gen" value="f" />FEMALE
                 </td>
               </tr>
@@ -119,7 +117,6 @@
                     <option value="28">28</option>
                     <option value="29">29</option>
                     <option value="30">30</option>
-                    5
                     <option value="31">31</option>
                   </select>
                   <select name="month">
@@ -152,7 +149,6 @@
                     <option value="1996">1996</option>
                     <option value="1997">1997</option>
                     <option value="1998">1998</option>
-                    6
                     <option value="1999">1999</option>
                     <option value="2000">2000</option>
                     <option value="2001">2001</option>
